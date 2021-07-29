@@ -1,3 +1,3 @@
 # issue
 Telegram Issue a me
-Issue: [!](https://github.com/SHS666638/issue/issue)
+Issue: [!](https://github.com/SHS666638/issue/issues)
